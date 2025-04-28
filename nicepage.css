@@ -44212,7 +44212,7 @@ a.u-link.u-text-hover-grey-90:hover {
   text-transform: uppercase;
 }
 
-.u-header .u-nav-3 {
+.u-header .u-nav-2 {
   font-size: 1rem;
   letter-spacing: 0px;
   margin-bottom: 0;
@@ -44297,6 +44297,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-search-1 {
+    margin-top: -33px;
     margin-right: 41px;
     margin-bottom: 45px;
   }
@@ -44342,14 +44343,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-btn-2 {
   border-style: solid;
+  font-weight: 400;
   margin-top: 0;
-  font-weight: 400;
-  padding: 0;
-}
-
-.u-footer .u-btn-3 {
-  border-style: solid;
-  font-weight: 400;
   padding: 0;
 }
 
@@ -44376,21 +44371,8 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 10px 0 0;
 }
 
-.u-footer .u-btn-4 {
+.u-footer .u-btn-3 {
   margin-top: 5px;
-  border-style: solid;
-  font-weight: 400;
-  padding: 0;
-}
-
-.u-footer .u-btn-5 {
-  border-style: solid;
-  margin-top: 0;
-  font-weight: 400;
-  padding: 0;
-}
-
-.u-footer .u-btn-6 {
   border-style: solid;
   font-weight: 400;
   padding: 0;
@@ -44422,7 +44404,7 @@ a.u-link.u-text-hover-grey-90:hover {
   margin-right: 5px;
 }
 
-.u-footer .u-btn-7 {
+.u-footer .u-btn-4 {
   border-style: solid;
   font-weight: 400;
   padding: 0;
@@ -44432,7 +44414,7 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 20px 0 0;
 }
 
-.u-footer .u-btn-8 {
+.u-footer .u-btn-5 {
   border-style: solid;
   font-weight: 400;
   padding: 0;
@@ -44471,7 +44453,7 @@ a.u-link.u-text-hover-grey-90:hover {
   --radius: 10px;
 }
 
-.u-footer .u-btn-9 {
+.u-footer .u-btn-6 {
   text-transform: uppercase;
   font-weight: 700;
   background-image: none;
